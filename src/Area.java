@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Area {
     public static void main(String[] args) {
 
-        int a, b, c, u,;
+        int a, b, c, u;
         double alan;
 
         Scanner circum = new Scanner(System.in);
