@@ -9,7 +9,7 @@ public class Area {
         int a, b, c, u;
         double alan;
 
-        // İlk olarak kullanıcıdan üçgenin kenarlarıını alıyoruz.
+        // İlk olarak kullanıcıdan üçgenin kenarlarını alıyoruz.
 
         System.out.println();
         System.out.print("1. Kenari Giriniz : ");
