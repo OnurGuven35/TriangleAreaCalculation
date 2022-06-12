@@ -26,6 +26,5 @@ public class Area {
 
         System.out.println();
         System.out.println("Kenarlari Verilen Ucgenin Alani : " + alan);
-
     }
 }
